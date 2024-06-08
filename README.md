@@ -1,31 +1,5 @@
 #  singil-accounting-application
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 ## 프로젝트 정보
 > **신길고등학교 매점 영업일보 자동화 애플리케이션 외주**
 > 
@@ -100,4 +74,32 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 <img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/cc732678-4ec3-4344-ae0f-adc6ae8f7868" width="600" />
 
 비밀번호 변경 페이지
+
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 
